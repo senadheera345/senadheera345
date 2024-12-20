@@ -8,8 +8,6 @@ Hello there! I'm Thimira, a professional passionate about **Data Engineering**, 
 I am an experienced professional specializing in **Data Engineering** 🛠️ and **Machine Learning (ML)** 🤖, with a strong background in migrating legacy systems and working with core banking platforms like **Temenos T24** 💳. My expertise spans **R** 📊, **Python** 🐍, **TensorFlow** ⚙️, **Machine Learning** 🧠, and **Database Tools** 💾, with a focus on developing impactful solutions through data analysis and predictive modeling. I am passionate about **Deep Learning (DL)** 🔍 and **ML**, and I also have a keen interest in **Data Analytics** 📈, particularly using tools like **Power BI** 📊 to drive insights. I am dedicated to advancing my knowledge in **Big Data** 🌐 and **Cloud Engineering** ☁️, combining technology with practical solutions to enhance efficiency and performance.
 
 ---
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
